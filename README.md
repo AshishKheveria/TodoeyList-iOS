@@ -1,5 +1,7 @@
 # TodoeyList-iOS ✓
 
+![Screenshot 2021-06-21 at 9 11 42 PM](https://user-images.githubusercontent.com/76988309/122789888-66d47a00-d2d5-11eb-9865-72534b8309b1.png)
+![Screenshot 2021-06-21 at 9 11 53 PM](https://user-images.githubusercontent.com/76988309/122789895-689e3d80-d2d5-11eb-8cdb-849039c7e9cf.png)
 
 
 ## Our Goal
